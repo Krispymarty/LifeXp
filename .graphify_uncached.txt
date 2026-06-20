@@ -1,0 +1,7 @@
+E:\Inara\Task-1\client\postcss.config.js
+E:\Inara\Task-1\client\src\components\Toast.jsx
+E:\Inara\Task-1\client\src\components\ui\Card.jsx
+E:\Inara\Task-1\client\src\components\ui\ProgressBar.jsx
+E:\Inara\Task-1\server\src\config\db.js
+E:\Inara\Task-1\server\src\controllers\badgeController.js
+E:\Inara\Task-1\server\src\controllers\skillController.js

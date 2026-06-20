@@ -1,0 +1,437 @@
+{
+  "communities": {
+    "0": [
+      "api_axios_client",
+      "api_endpoints_badges",
+      "api_endpoints_createexperience",
+      "api_endpoints_dashboard",
+      "api_endpoints_deleteexperience",
+      "api_endpoints_experiences",
+      "api_endpoints_skills",
+      "badges_iconmap",
+      "client_skill_level_formula",
+      "client_skill_rank_tiers",
+      "client_src_components_experiencelist_jsx",
+      "client_src_hooks_useapi_js",
+      "client_src_pages_badges_jsx",
+      "client_src_pages_dashboard_jsx",
+      "client_src_pages_skills_jsx",
+      "client_src_pages_timeline_jsx",
+      "client_src_utils_progression_js",
+      "components_experiencelist_experiencelist",
+      "constants_categories_colors",
+      "dashboard_classdetails",
+      "dashboard_leveltitles",
+      "hooks_useapi_load",
+      "hooks_useapi_useapi",
+      "pages_badges_badgecard",
+      "pages_badges_badges",
+      "pages_dashboard_dashboard",
+      "pages_dashboard_getleveltitle",
+      "pages_dashboard_journeymetric",
+      "pages_dashboard_statcard",
+      "pages_skills_skills",
+      "pages_timeline_timeline",
+      "skills_rankstyles",
+      "timeline_removeexperience",
+      "utils_progression_formatdate",
+      "utils_progression_pluralize",
+      "utils_progression_skilllevel",
+      "utils_progression_skillrank",
+      "utils_progression_yearof",
+      "vite_api_proxy"
+    ],
+    "1": [
+      "badgeroutes_get_handler",
+      "controllers_badgecontroller_getbadges",
+      "controllers_dashboardcontroller_getdashboard",
+      "controllers_skillcontroller_getskills",
+      "dashboardroutes_get_handler",
+      "life_class_system",
+      "models_badge_document",
+      "models_experience_document",
+      "models_skill_document",
+      "models_userstats_document",
+      "progression_rebuild_pipeline",
+      "progressionservice_levelsize",
+      "rules_skillmapping",
+      "server_src_controllers_badgecontroller_js",
+      "server_src_controllers_dashboardcontroller_js",
+      "server_src_controllers_skillcontroller_js",
+      "server_src_seed_js",
+      "server_src_services_progressionservice_js",
+      "services_progressionservice_calculatelevel",
+      "services_progressionservice_ensurebadges",
+      "services_progressionservice_getlevelprogress",
+      "services_progressionservice_getlifeclass",
+      "services_progressionservice_getxpforcategory",
+      "services_progressionservice_rebuildprogression",
+      "skillroutes_get_handler",
+      "src_seed_seed",
+      "utils_progression_skillprogress"
+    ],
+    "2": [
+      "client_index_html_entry",
+      "client_index_html_main_jsx",
+      "client_index_html_root_mount",
+      "readme_backend_server",
+      "readme_badges",
+      "readme_classes",
+      "readme_experience_logging",
+      "readme_expressjs",
+      "readme_frontend_dev_server",
+      "readme_gamified_self_growth",
+      "readme_levels",
+      "readme_life_xp",
+      "readme_nodejs",
+      "readme_npm_dev",
+      "readme_react",
+      "readme_react_router",
+      "readme_recharts",
+      "readme_skills",
+      "readme_tailwind_css",
+      "readme_vite",
+      "readme_xp"
+    ],
+    "3": [
+      "demo_demostore_computebadges",
+      "demo_demostore_computeskills",
+      "demo_demostore_computestats",
+      "demo_demostore_deletedemoexperience",
+      "demo_demostore_getdemobadges",
+      "demo_demostore_getdemodashboard",
+      "demo_demostore_getdemoexperiences",
+      "demo_demostore_getdemoskills",
+      "demo_demostore_sortbydate",
+      "demo_demoutils_getskillrules",
+      "demoroutes_badges_handler",
+      "demoroutes_dashboard_handler",
+      "demoroutes_experiences_delete_handler",
+      "demoroutes_experiences_get_handler",
+      "demoroutes_skills_handler",
+      "rules_badgerules",
+      "server_src_demo_demostore_js",
+      "server_src_demo_demoutils_js"
+    ],
+    "4": [
+      "addexperience_badge_unlock_detection",
+      "addexperience_submit",
+      "client_src_components_badgeunlockmodal_jsx",
+      "client_src_components_toast_jsx",
+      "client_src_components_ui_emptystate_jsx",
+      "client_src_pages_addexperience_jsx",
+      "client_src_pages_landing_jsx",
+      "components_badgeunlockmodal_badgeunlockmodal",
+      "components_toast_toast",
+      "constants_categories_list",
+      "life_xp_rpg_system",
+      "pages_addexperience_addexperience",
+      "pages_landing_landing",
+      "progressionrules_categoryskillgains",
+      "progressionrules_categoryxp",
+      "tailwind_xp_theme",
+      "ui_emptystate_emptystate"
+    ],
+    "5": [
+      "atmospheric_perspective",
+      "fantasy_landscape_hero",
+      "landing_hero_background",
+      "leading_line_composition",
+      "life_xp_hero_image",
+      "light_dark_contrast",
+      "magical_particles",
+      "misty_purple_valley",
+      "mountain_castle",
+      "purple_magical_crystals",
+      "rpg_progression_metaphor",
+      "rule_of_thirds_focal_point",
+      "snow_capped_mountains",
+      "stone_bridge",
+      "sunset_lighting",
+      "wide_format_banner",
+      "winding_stone_path"
+    ],
+    "6": [
+      "docker_compose_life_xp_mongo_container",
+      "docker_compose_life_xp_mongo_volume",
+      "docker_compose_mongo_7",
+      "docker_compose_mongo_service",
+      "docker_compose_port_27017",
+      "readme_docker_compose_up",
+      "readme_mongodb",
+      "readme_mongodb_atlas",
+      "readme_mongodb_uri",
+      "readme_mongoose",
+      "readme_npm_seed"
+    ],
+    "7": [
+      "controllers_experiencecontroller_createexperience",
+      "controllers_experiencecontroller_deleteexperience",
+      "controllers_experiencecontroller_getexperiences",
+      "demo_demostore_adddemoexperience",
+      "demoroutes_experiences_post_handler",
+      "demostore_inmemory_experiences",
+      "experienceroutes_handlers",
+      "rules_categories",
+      "rules_categoryxp",
+      "server_src_controllers_experiencecontroller_js"
+    ],
+    "8": [
+      "app_demo_mode_routing",
+      "config_db_connectdb",
+      "server_demo_fallback",
+      "server_src_app_js",
+      "server_src_config_db_js",
+      "server_src_server_js",
+      "src_app_createapp",
+      "src_server_start"
+    ],
+    "9": [
+      "client_src_components_layout_applayout_jsx",
+      "client_src_main_jsx",
+      "layout_applayout_applayout",
+      "layout_navitems",
+      "router_router"
+    ],
+    "10": [
+      "client_src_components_ui_card_jsx",
+      "ui_card_card"
+    ],
+    "11": [
+      "client_src_components_ui_progressbar_jsx",
+      "ui_progressbar_progressbar"
+    ],
+    "12": [
+      "client_postcss_config_js"
+    ],
+    "13": [
+      "client_tailwind_config_js"
+    ],
+    "14": [
+      "client_vite_config_js"
+    ],
+    "15": [
+      "client_src_router_jsx"
+    ],
+    "16": [
+      "client_src_api_api_js"
+    ],
+    "17": [
+      "client_src_constants_categories_js"
+    ],
+    "18": [
+      "client_src_constants_progressionrules_js"
+    ],
+    "19": [
+      "server_src_data_rules_js"
+    ],
+    "20": [
+      "server_src_models_badge_js"
+    ],
+    "21": [
+      "server_src_models_experience_js"
+    ],
+    "22": [
+      "server_src_models_skill_js"
+    ],
+    "23": [
+      "server_src_models_userstats_js"
+    ],
+    "24": [
+      "server_src_routes_badgeroutes_js"
+    ],
+    "25": [
+      "server_src_routes_dashboardroutes_js"
+    ],
+    "26": [
+      "server_src_routes_demoroutes_js"
+    ],
+    "27": [
+      "server_src_routes_experienceroutes_js"
+    ],
+    "28": [
+      "server_src_routes_skillroutes_js"
+    ],
+    "29": [
+      "api_endpoints"
+    ]
+  },
+  "cohesion": {
+    "0": 0.08,
+    "1": 0.1,
+    "2": 0.11,
+    "3": 0.18,
+    "4": 0.14,
+    "5": 0.16,
+    "6": 0.22,
+    "7": 0.31,
+    "8": 0.29,
+    "9": 0.5,
+    "10": 1.0,
+    "11": 1.0,
+    "12": 1.0,
+    "13": 1.0,
+    "14": 1.0,
+    "15": 1.0,
+    "16": 1.0,
+    "17": 1.0,
+    "18": 1.0,
+    "19": 1.0,
+    "20": 1.0,
+    "21": 1.0,
+    "22": 1.0,
+    "23": 1.0,
+    "24": 1.0,
+    "25": 1.0,
+    "26": 1.0,
+    "27": 1.0,
+    "28": 1.0,
+    "29": 1.0
+  },
+  "gods": [
+    {
+      "id": "services_progressionservice_rebuildprogression",
+      "label": "rebuildProgression()",
+      "degree": 16
+    },
+    {
+      "id": "readme_life_xp",
+      "label": "Life XP",
+      "degree": 12
+    },
+    {
+      "id": "pages_dashboard_dashboard",
+      "label": "Dashboard()",
+      "degree": 11
+    },
+    {
+      "id": "demo_demostore_getdemodashboard",
+      "label": "getDemoDashboard()",
+      "degree": 11
+    },
+    {
+      "id": "pages_timeline_timeline",
+      "label": "Timeline()",
+      "degree": 9
+    },
+    {
+      "id": "readme_mongodb",
+      "label": "MongoDB",
+      "degree": 8
+    },
+    {
+      "id": "pages_skills_skills",
+      "label": "Skills()",
+      "degree": 7
+    },
+    {
+      "id": "controllers_dashboardcontroller_getdashboard",
+      "label": "getDashboard()",
+      "degree": 7
+    },
+    {
+      "id": "api_axios_client",
+      "label": "axios API client (baseURL /api)",
+      "degree": 7
+    },
+    {
+      "id": "hooks_useapi_useapi",
+      "label": "useApi()",
+      "degree": 6
+    }
+  ],
+  "surprises": [
+    {
+      "source": "skillLevel()",
+      "target": "calculateLevel()",
+      "source_files": [
+        "client\\src\\utils\\progression.js",
+        "server\\src\\services\\progressionService.js"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; bridges separate communities; semantically similar concepts with no structural link"
+    },
+    {
+      "source": "getDemoDashboard()",
+      "target": "getDashboard()",
+      "source_files": [
+        "server\\src\\demo\\demoStore.js",
+        "server\\src\\controllers\\dashboardController.js"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; bridges separate communities; semantically similar concepts with no structural link"
+    },
+    {
+      "source": "computeSkills()",
+      "target": "rebuildProgression()",
+      "source_files": [
+        "server\\src\\demo\\demoStore.js",
+        "server\\src\\services\\progressionService.js"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; bridges separate communities; semantically similar concepts with no structural link"
+    },
+    {
+      "source": "ExperienceList()",
+      "target": "Timeline()",
+      "source_files": [
+        "client\\src\\components\\ExperienceList.jsx",
+        "client\\src\\pages\\Timeline.jsx"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; semantically similar concepts with no structural link"
+    },
+    {
+      "source": "skillProgress()",
+      "target": "getLevelProgress()",
+      "source_files": [
+        "client\\src\\utils\\progression.js",
+        "server\\src\\services\\progressionService.js"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; semantically similar concepts with no structural link"
+    }
+  ],
+  "questions": [
+    {
+      "type": "ambiguous_edge",
+      "question": "What is the exact relationship between `getSkillRules()` and `badgeRules`?",
+      "why": "Edge tagged AMBIGUOUS (relation: references) - confidence is low."
+    },
+    {
+      "type": "ambiguous_edge",
+      "question": "What is the exact relationship between `Mountain Castle` and `Stone Bridge`?",
+      "why": "Edge tagged AMBIGUOUS (relation: conceptually_related_to) - confidence is low."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `rebuildProgression()` connect `Community 1` to `Community 3`, `Community 7`?",
+      "why": "High betweenness centrality (0.149) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `calculateLevel()` connect `Community 1` to `Community 0`, `Community 3`?",
+      "why": "High betweenness centrality (0.129) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `skillLevel()` connect `Community 0` to `Community 1`?",
+      "why": "High betweenness centrality (0.126) - this node is a cross-community bridge."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 10 inferred relationships involving `rebuildProgression()` (e.g. with `seed()` and `getBadges()`) actually correct?",
+      "why": "`rebuildProgression()` has 10 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 2 inferred relationships involving `Dashboard()` (e.g. with `useApi()` and `pluralize()`) actually correct?",
+      "why": "`Dashboard()` has 2 INFERRED edges - model-reasoned connections that need verification."
+    }
+  ]
+}

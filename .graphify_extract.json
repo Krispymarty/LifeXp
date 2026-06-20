@@ -1,0 +1,5556 @@
+{
+  "nodes": [
+    {
+      "id": "client_postcss_config_js",
+      "label": "postcss.config.js",
+      "file_type": "code",
+      "source_file": "client\\postcss.config.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "client_tailwind_config_js",
+      "label": "tailwind.config.js",
+      "file_type": "code",
+      "source_file": "client\\tailwind.config.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "client_vite_config_js",
+      "label": "vite.config.js",
+      "file_type": "code",
+      "source_file": "client\\vite.config.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "client_src_main_jsx",
+      "label": "main.jsx",
+      "file_type": "code",
+      "source_file": "client\\src\\main.jsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "client_src_router_jsx",
+      "label": "router.jsx",
+      "file_type": "code",
+      "source_file": "client\\src\\router.jsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "client_src_api_api_js",
+      "label": "api.js",
+      "file_type": "code",
+      "source_file": "client\\src\\api\\api.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "client_src_components_badgeunlockmodal_jsx",
+      "label": "BadgeUnlockModal.jsx",
+      "file_type": "code",
+      "source_file": "client\\src\\components\\BadgeUnlockModal.jsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "components_badgeunlockmodal_badgeunlockmodal",
+      "label": "BadgeUnlockModal()",
+      "file_type": "code",
+      "source_file": "client\\src\\components\\BadgeUnlockModal.jsx",
+      "source_location": "L11"
+    },
+    {
+      "id": "client_src_components_experiencelist_jsx",
+      "label": "ExperienceList.jsx",
+      "file_type": "code",
+      "source_file": "client\\src\\components\\ExperienceList.jsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "components_experiencelist_experiencelist",
+      "label": "ExperienceList()",
+      "file_type": "code",
+      "source_file": "client\\src\\components\\ExperienceList.jsx",
+      "source_location": "L5"
+    },
+    {
+      "id": "client_src_components_toast_jsx",
+      "label": "Toast.jsx",
+      "file_type": "code",
+      "source_file": "client\\src\\components\\Toast.jsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "components_toast_toast",
+      "label": "Toast()",
+      "file_type": "code",
+      "source_file": "client\\src\\components\\Toast.jsx",
+      "source_location": "L3"
+    },
+    {
+      "id": "client_src_components_layout_applayout_jsx",
+      "label": "AppLayout.jsx",
+      "file_type": "code",
+      "source_file": "client\\src\\components\\layout\\AppLayout.jsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "layout_applayout_applayout",
+      "label": "AppLayout()",
+      "file_type": "code",
+      "source_file": "client\\src\\components\\layout\\AppLayout.jsx",
+      "source_location": "L12"
+    },
+    {
+      "id": "client_src_components_ui_card_jsx",
+      "label": "Card.jsx",
+      "file_type": "code",
+      "source_file": "client\\src\\components\\ui\\Card.jsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "ui_card_card",
+      "label": "Card()",
+      "file_type": "code",
+      "source_file": "client\\src\\components\\ui\\Card.jsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "client_src_components_ui_emptystate_jsx",
+      "label": "EmptyState.jsx",
+      "file_type": "code",
+      "source_file": "client\\src\\components\\ui\\EmptyState.jsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "ui_emptystate_emptystate",
+      "label": "EmptyState()",
+      "file_type": "code",
+      "source_file": "client\\src\\components\\ui\\EmptyState.jsx",
+      "source_location": "L4"
+    },
+    {
+      "id": "client_src_components_ui_progressbar_jsx",
+      "label": "ProgressBar.jsx",
+      "file_type": "code",
+      "source_file": "client\\src\\components\\ui\\ProgressBar.jsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "ui_progressbar_progressbar",
+      "label": "ProgressBar()",
+      "file_type": "code",
+      "source_file": "client\\src\\components\\ui\\ProgressBar.jsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "client_src_constants_categories_js",
+      "label": "categories.js",
+      "file_type": "code",
+      "source_file": "client\\src\\constants\\categories.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "client_src_constants_progressionrules_js",
+      "label": "progressionRules.js",
+      "file_type": "code",
+      "source_file": "client\\src\\constants\\progressionRules.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "client_src_hooks_useapi_js",
+      "label": "useApi.js",
+      "file_type": "code",
+      "source_file": "client\\src\\hooks\\useApi.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "hooks_useapi_useapi",
+      "label": "useApi()",
+      "file_type": "code",
+      "source_file": "client\\src\\hooks\\useApi.js",
+      "source_location": "L3"
+    },
+    {
+      "id": "client_src_pages_addexperience_jsx",
+      "label": "AddExperience.jsx",
+      "file_type": "code",
+      "source_file": "client\\src\\pages\\AddExperience.jsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "pages_addexperience_addexperience",
+      "label": "AddExperience()",
+      "file_type": "code",
+      "source_file": "client\\src\\pages\\AddExperience.jsx",
+      "source_location": "L18"
+    },
+    {
+      "id": "client_src_pages_badges_jsx",
+      "label": "Badges.jsx",
+      "file_type": "code",
+      "source_file": "client\\src\\pages\\Badges.jsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "pages_badges_badgecard",
+      "label": "BadgeCard()",
+      "file_type": "code",
+      "source_file": "client\\src\\pages\\Badges.jsx",
+      "source_location": "L9"
+    },
+    {
+      "id": "pages_badges_badges",
+      "label": "Badges()",
+      "file_type": "code",
+      "source_file": "client\\src\\pages\\Badges.jsx",
+      "source_location": "L32"
+    },
+    {
+      "id": "client_src_pages_dashboard_jsx",
+      "label": "Dashboard.jsx",
+      "file_type": "code",
+      "source_file": "client\\src\\pages\\Dashboard.jsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "pages_dashboard_statcard",
+      "label": "StatCard()",
+      "file_type": "code",
+      "source_file": "client\\src\\pages\\Dashboard.jsx",
+      "source_location": "L11"
+    },
+    {
+      "id": "pages_dashboard_getleveltitle",
+      "label": "getLevelTitle()",
+      "file_type": "code",
+      "source_file": "client\\src\\pages\\Dashboard.jsx",
+      "source_location": "L60"
+    },
+    {
+      "id": "pages_dashboard_journeymetric",
+      "label": "JourneyMetric()",
+      "file_type": "code",
+      "source_file": "client\\src\\pages\\Dashboard.jsx",
+      "source_location": "L64"
+    },
+    {
+      "id": "pages_dashboard_dashboard",
+      "label": "Dashboard()",
+      "file_type": "code",
+      "source_file": "client\\src\\pages\\Dashboard.jsx",
+      "source_location": "L74"
+    },
+    {
+      "id": "client_src_pages_landing_jsx",
+      "label": "Landing.jsx",
+      "file_type": "code",
+      "source_file": "client\\src\\pages\\Landing.jsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "pages_landing_landing",
+      "label": "Landing()",
+      "file_type": "code",
+      "source_file": "client\\src\\pages\\Landing.jsx",
+      "source_location": "L12"
+    },
+    {
+      "id": "client_src_pages_skills_jsx",
+      "label": "Skills.jsx",
+      "file_type": "code",
+      "source_file": "client\\src\\pages\\Skills.jsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "pages_skills_skills",
+      "label": "Skills()",
+      "file_type": "code",
+      "source_file": "client\\src\\pages\\Skills.jsx",
+      "source_location": "L17"
+    },
+    {
+      "id": "client_src_pages_timeline_jsx",
+      "label": "Timeline.jsx",
+      "file_type": "code",
+      "source_file": "client\\src\\pages\\Timeline.jsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "pages_timeline_timeline",
+      "label": "Timeline()",
+      "file_type": "code",
+      "source_file": "client\\src\\pages\\Timeline.jsx",
+      "source_location": "L10"
+    },
+    {
+      "id": "client_src_utils_progression_js",
+      "label": "progression.js",
+      "file_type": "code",
+      "source_file": "client\\src\\utils\\progression.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "utils_progression_skilllevel",
+      "label": "skillLevel()",
+      "file_type": "code",
+      "source_file": "client\\src\\utils\\progression.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "utils_progression_skillprogress",
+      "label": "skillProgress()",
+      "file_type": "code",
+      "source_file": "client\\src\\utils\\progression.js",
+      "source_location": "L5"
+    },
+    {
+      "id": "utils_progression_skillrank",
+      "label": "skillRank()",
+      "file_type": "code",
+      "source_file": "client\\src\\utils\\progression.js",
+      "source_location": "L9"
+    },
+    {
+      "id": "utils_progression_formatdate",
+      "label": "formatDate()",
+      "file_type": "code",
+      "source_file": "client\\src\\utils\\progression.js",
+      "source_location": "L17"
+    },
+    {
+      "id": "utils_progression_yearof",
+      "label": "yearOf()",
+      "file_type": "code",
+      "source_file": "client\\src\\utils\\progression.js",
+      "source_location": "L25"
+    },
+    {
+      "id": "utils_progression_pluralize",
+      "label": "pluralize()",
+      "file_type": "code",
+      "source_file": "client\\src\\utils\\progression.js",
+      "source_location": "L29"
+    },
+    {
+      "id": "server_src_app_js",
+      "label": "app.js",
+      "file_type": "code",
+      "source_file": "server\\src\\app.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_app_createapp",
+      "label": "createApp()",
+      "file_type": "code",
+      "source_file": "server\\src\\app.js",
+      "source_location": "L10"
+    },
+    {
+      "id": "server_src_seed_js",
+      "label": "seed.js",
+      "file_type": "code",
+      "source_file": "server\\src\\seed.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_seed_seed",
+      "label": "seed()",
+      "file_type": "code",
+      "source_file": "server\\src\\seed.js",
+      "source_location": "L45"
+    },
+    {
+      "id": "server_src_server_js",
+      "label": "server.js",
+      "file_type": "code",
+      "source_file": "server\\src\\server.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_server_start",
+      "label": "start()",
+      "file_type": "code",
+      "source_file": "server\\src\\server.js",
+      "source_location": "L10"
+    },
+    {
+      "id": "server_src_config_db_js",
+      "label": "db.js",
+      "file_type": "code",
+      "source_file": "server\\src\\config\\db.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "config_db_connectdb",
+      "label": "connectDB()",
+      "file_type": "code",
+      "source_file": "server\\src\\config\\db.js",
+      "source_location": "L3"
+    },
+    {
+      "id": "server_src_controllers_badgecontroller_js",
+      "label": "badgeController.js",
+      "file_type": "code",
+      "source_file": "server\\src\\controllers\\badgeController.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "controllers_badgecontroller_getbadges",
+      "label": "getBadges()",
+      "file_type": "code",
+      "source_file": "server\\src\\controllers\\badgeController.js",
+      "source_location": "L3"
+    },
+    {
+      "id": "server_src_controllers_dashboardcontroller_js",
+      "label": "dashboardController.js",
+      "file_type": "code",
+      "source_file": "server\\src\\controllers\\dashboardController.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "controllers_dashboardcontroller_getdashboard",
+      "label": "getDashboard()",
+      "file_type": "code",
+      "source_file": "server\\src\\controllers\\dashboardController.js",
+      "source_location": "L4"
+    },
+    {
+      "id": "server_src_controllers_experiencecontroller_js",
+      "label": "experienceController.js",
+      "file_type": "code",
+      "source_file": "server\\src\\controllers\\experienceController.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "controllers_experiencecontroller_getexperiences",
+      "label": "getExperiences()",
+      "file_type": "code",
+      "source_file": "server\\src\\controllers\\experienceController.js",
+      "source_location": "L5"
+    },
+    {
+      "id": "controllers_experiencecontroller_createexperience",
+      "label": "createExperience()",
+      "file_type": "code",
+      "source_file": "server\\src\\controllers\\experienceController.js",
+      "source_location": "L14"
+    },
+    {
+      "id": "controllers_experiencecontroller_deleteexperience",
+      "label": "deleteExperience()",
+      "file_type": "code",
+      "source_file": "server\\src\\controllers\\experienceController.js",
+      "source_location": "L41"
+    },
+    {
+      "id": "server_src_controllers_skillcontroller_js",
+      "label": "skillController.js",
+      "file_type": "code",
+      "source_file": "server\\src\\controllers\\skillController.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "controllers_skillcontroller_getskills",
+      "label": "getSkills()",
+      "file_type": "code",
+      "source_file": "server\\src\\controllers\\skillController.js",
+      "source_location": "L3"
+    },
+    {
+      "id": "server_src_data_rules_js",
+      "label": "rules.js",
+      "file_type": "code",
+      "source_file": "server\\src\\data\\rules.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "server_src_demo_demostore_js",
+      "label": "demoStore.js",
+      "file_type": "code",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "demo_demostore_sortbydate",
+      "label": "sortByDate()",
+      "file_type": "code",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L47"
+    },
+    {
+      "id": "demo_demostore_computeskills",
+      "label": "computeSkills()",
+      "file_type": "code",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L51"
+    },
+    {
+      "id": "demo_demostore_computestats",
+      "label": "computeStats()",
+      "file_type": "code",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L65"
+    },
+    {
+      "id": "demo_demostore_computebadges",
+      "label": "computeBadges()",
+      "file_type": "code",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L76"
+    },
+    {
+      "id": "demo_demostore_getdemoexperiences",
+      "label": "getDemoExperiences()",
+      "file_type": "code",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L89"
+    },
+    {
+      "id": "demo_demostore_adddemoexperience",
+      "label": "addDemoExperience()",
+      "file_type": "code",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L93"
+    },
+    {
+      "id": "demo_demostore_deletedemoexperience",
+      "label": "deleteDemoExperience()",
+      "file_type": "code",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L108"
+    },
+    {
+      "id": "demo_demostore_getdemoskills",
+      "label": "getDemoSkills()",
+      "file_type": "code",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L114"
+    },
+    {
+      "id": "demo_demostore_getdemobadges",
+      "label": "getDemoBadges()",
+      "file_type": "code",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L118"
+    },
+    {
+      "id": "demo_demostore_getdemodashboard",
+      "label": "getDemoDashboard()",
+      "file_type": "code",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L122"
+    },
+    {
+      "id": "server_src_demo_demoutils_js",
+      "label": "demoUtils.js",
+      "file_type": "code",
+      "source_file": "server\\src\\demo\\demoUtils.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "demo_demoutils_getskillrules",
+      "label": "getSkillRules()",
+      "file_type": "code",
+      "source_file": "server\\src\\demo\\demoUtils.js",
+      "source_location": "L5"
+    },
+    {
+      "id": "server_src_models_badge_js",
+      "label": "Badge.js",
+      "file_type": "code",
+      "source_file": "server\\src\\models\\Badge.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "server_src_models_experience_js",
+      "label": "Experience.js",
+      "file_type": "code",
+      "source_file": "server\\src\\models\\Experience.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "server_src_models_skill_js",
+      "label": "Skill.js",
+      "file_type": "code",
+      "source_file": "server\\src\\models\\Skill.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "server_src_models_userstats_js",
+      "label": "UserStats.js",
+      "file_type": "code",
+      "source_file": "server\\src\\models\\UserStats.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "server_src_routes_badgeroutes_js",
+      "label": "badgeRoutes.js",
+      "file_type": "code",
+      "source_file": "server\\src\\routes\\badgeRoutes.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "server_src_routes_dashboardroutes_js",
+      "label": "dashboardRoutes.js",
+      "file_type": "code",
+      "source_file": "server\\src\\routes\\dashboardRoutes.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "server_src_routes_demoroutes_js",
+      "label": "demoRoutes.js",
+      "file_type": "code",
+      "source_file": "server\\src\\routes\\demoRoutes.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "server_src_routes_experienceroutes_js",
+      "label": "experienceRoutes.js",
+      "file_type": "code",
+      "source_file": "server\\src\\routes\\experienceRoutes.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "server_src_routes_skillroutes_js",
+      "label": "skillRoutes.js",
+      "file_type": "code",
+      "source_file": "server\\src\\routes\\skillRoutes.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "server_src_services_progressionservice_js",
+      "label": "progressionService.js",
+      "file_type": "code",
+      "source_file": "server\\src\\services\\progressionService.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "services_progressionservice_calculatelevel",
+      "label": "calculateLevel()",
+      "file_type": "code",
+      "source_file": "server\\src\\services\\progressionService.js",
+      "source_location": "L9"
+    },
+    {
+      "id": "services_progressionservice_getlevelprogress",
+      "label": "getLevelProgress()",
+      "file_type": "code",
+      "source_file": "server\\src\\services\\progressionService.js",
+      "source_location": "L13"
+    },
+    {
+      "id": "services_progressionservice_getlifeclass",
+      "label": "getLifeClass()",
+      "file_type": "code",
+      "source_file": "server\\src\\services\\progressionService.js",
+      "source_location": "L24"
+    },
+    {
+      "id": "services_progressionservice_ensurebadges",
+      "label": "ensureBadges()",
+      "file_type": "code",
+      "source_file": "server\\src\\services\\progressionService.js",
+      "source_location": "L39"
+    },
+    {
+      "id": "services_progressionservice_rebuildprogression",
+      "label": "rebuildProgression()",
+      "file_type": "code",
+      "source_file": "server\\src\\services\\progressionService.js",
+      "source_location": "L55"
+    },
+    {
+      "id": "services_progressionservice_getxpforcategory",
+      "label": "getXpForCategory()",
+      "file_type": "code",
+      "source_file": "server\\src\\services\\progressionService.js",
+      "source_location": "L103"
+    },
+    {
+      "id": "tailwind_xp_theme",
+      "label": "Tailwind xp design tokens",
+      "file_type": "code",
+      "source_file": "client/tailwind.config.js",
+      "source_location": "L8",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vite_api_proxy",
+      "label": "Vite /api dev proxy",
+      "file_type": "code",
+      "source_file": "client/vite.config.js",
+      "source_location": "L8",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "router_router",
+      "label": "browser router config",
+      "file_type": "code",
+      "source_file": "client/src/router.jsx",
+      "source_location": "L10",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "api_axios_client",
+      "label": "axios API client (baseURL /api)",
+      "file_type": "code",
+      "source_file": "client/src/api/api.js",
+      "source_location": "L3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "api_endpoints",
+      "label": "endpoints API facade",
+      "file_type": "code",
+      "source_file": "client/src/api/api.js",
+      "source_location": "L7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "api_endpoints_dashboard",
+      "label": "endpoints.dashboard()",
+      "file_type": "code",
+      "source_file": "client/src/api/api.js",
+      "source_location": "L8",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "api_endpoints_experiences",
+      "label": "endpoints.experiences()",
+      "file_type": "code",
+      "source_file": "client/src/api/api.js",
+      "source_location": "L9",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "api_endpoints_createexperience",
+      "label": "endpoints.createExperience()",
+      "file_type": "code",
+      "source_file": "client/src/api/api.js",
+      "source_location": "L10",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "api_endpoints_deleteexperience",
+      "label": "endpoints.deleteExperience()",
+      "file_type": "code",
+      "source_file": "client/src/api/api.js",
+      "source_location": "L11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "api_endpoints_skills",
+      "label": "endpoints.skills()",
+      "file_type": "code",
+      "source_file": "client/src/api/api.js",
+      "source_location": "L12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "api_endpoints_badges",
+      "label": "endpoints.badges()",
+      "file_type": "code",
+      "source_file": "client/src/api/api.js",
+      "source_location": "L13",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "layout_navitems",
+      "label": "AppLayout navItems routes",
+      "file_type": "code",
+      "source_file": "client/src/components/layout/AppLayout.jsx",
+      "source_location": "L4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "constants_categories_list",
+      "label": "categories array",
+      "file_type": "code",
+      "source_file": "client/src/constants/categories.js",
+      "source_location": "L1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "constants_categories_colors",
+      "label": "categoryColors map",
+      "file_type": "code",
+      "source_file": "client/src/constants/categories.js",
+      "source_location": "L12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "progressionrules_categoryxp",
+      "label": "categoryXp map",
+      "file_type": "code",
+      "source_file": "client/src/constants/progressionRules.js",
+      "source_location": "L1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "progressionrules_categoryskillgains",
+      "label": "categorySkillGains map",
+      "file_type": "code",
+      "source_file": "client/src/constants/progressionRules.js",
+      "source_location": "L12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hooks_useapi_load",
+      "label": "useApi load callback",
+      "file_type": "code",
+      "source_file": "client/src/hooks/useApi.js",
+      "source_location": "L8",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "addexperience_submit",
+      "label": "AddExperience submit handler",
+      "file_type": "code",
+      "source_file": "client/src/pages/AddExperience.jsx",
+      "source_location": "L30",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "addexperience_badge_unlock_detection",
+      "label": "newly unlocked badge detection",
+      "file_type": "code",
+      "source_file": "client/src/pages/AddExperience.jsx",
+      "source_location": "L39",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "badges_iconmap",
+      "label": "Badges lucide icon map",
+      "file_type": "code",
+      "source_file": "client/src/pages/Badges.jsx",
+      "source_location": "L7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dashboard_classdetails",
+      "label": "Dashboard life class mapping",
+      "file_type": "code",
+      "source_file": "client/src/pages/Dashboard.jsx",
+      "source_location": "L27",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dashboard_leveltitles",
+      "label": "Dashboard level title ladder",
+      "file_type": "code",
+      "source_file": "client/src/pages/Dashboard.jsx",
+      "source_location": "L25",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "life_xp_rpg_system",
+      "label": "Life XP RPG progression system",
+      "file_type": "code",
+      "source_file": "client/src/pages/Landing.jsx",
+      "source_location": "L5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skills_rankstyles",
+      "label": "Skills rank badge styles",
+      "file_type": "code",
+      "source_file": "client/src/pages/Skills.jsx",
+      "source_location": "L9",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "timeline_removeexperience",
+      "label": "Timeline removeExperience handler",
+      "file_type": "code",
+      "source_file": "client/src/pages/Timeline.jsx",
+      "source_location": "L29",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "client_skill_level_formula",
+      "label": "Client Skill Level Formula (100 XP)",
+      "file_type": "code",
+      "source_file": "client/src/utils/progression.js",
+      "source_location": "L1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "client_skill_rank_tiers",
+      "label": "Client Skill Rank Tiers",
+      "file_type": "code",
+      "source_file": "client/src/utils/progression.js",
+      "source_location": "L9",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "app_demo_mode_routing",
+      "label": "Demo vs Mongo API Routing",
+      "file_type": "code",
+      "source_file": "server/src/app.js",
+      "source_location": "L21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "server_demo_fallback",
+      "label": "MongoDB Unavailable Demo Fallback",
+      "file_type": "code",
+      "source_file": "server/src/server.js",
+      "source_location": "L16",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rules_categoryxp",
+      "label": "categoryXp",
+      "file_type": "code",
+      "source_file": "server/src/data/rules.js",
+      "source_location": "L1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rules_skillmapping",
+      "label": "skillMapping",
+      "file_type": "code",
+      "source_file": "server/src/data/rules.js",
+      "source_location": "L12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rules_badgerules",
+      "label": "badgeRules",
+      "file_type": "code",
+      "source_file": "server/src/data/rules.js",
+      "source_location": "L44",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rules_categories",
+      "label": "categories",
+      "file_type": "code",
+      "source_file": "server/src/data/rules.js",
+      "source_location": "L83",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "demostore_inmemory_experiences",
+      "label": "In-Memory Demo Experiences",
+      "file_type": "code",
+      "source_file": "server/src/demo/demoStore.js",
+      "source_location": "L39",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "models_badge_document",
+      "label": "Badge Document",
+      "file_type": "code",
+      "source_file": "server/src/models/Badge.js",
+      "source_location": "L3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "models_experience_document",
+      "label": "Experience Document",
+      "file_type": "code",
+      "source_file": "server/src/models/Experience.js",
+      "source_location": "L3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "models_skill_document",
+      "label": "Skill Document",
+      "file_type": "code",
+      "source_file": "server/src/models/Skill.js",
+      "source_location": "L3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "models_userstats_document",
+      "label": "UserStats Document",
+      "file_type": "code",
+      "source_file": "server/src/models/UserStats.js",
+      "source_location": "L3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "badgeroutes_get_handler",
+      "label": "GET / Badges Route Handler",
+      "file_type": "code",
+      "source_file": "server/src/routes/badgeRoutes.js",
+      "source_location": "L6",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dashboardroutes_get_handler",
+      "label": "GET / Dashboard Route Handler",
+      "file_type": "code",
+      "source_file": "server/src/routes/dashboardRoutes.js",
+      "source_location": "L6",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "demoroutes_dashboard_handler",
+      "label": "GET /dashboard Handler",
+      "file_type": "code",
+      "source_file": "server/src/routes/demoRoutes.js",
+      "source_location": "L14",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "demoroutes_experiences_get_handler",
+      "label": "GET /experiences Handler",
+      "file_type": "code",
+      "source_file": "server/src/routes/demoRoutes.js",
+      "source_location": "L18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "demoroutes_experiences_post_handler",
+      "label": "POST /experiences Handler",
+      "file_type": "code",
+      "source_file": "server/src/routes/demoRoutes.js",
+      "source_location": "L22",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "demoroutes_experiences_delete_handler",
+      "label": "DELETE /experiences/:id Handler",
+      "file_type": "code",
+      "source_file": "server/src/routes/demoRoutes.js",
+      "source_location": "L37",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "demoroutes_skills_handler",
+      "label": "GET /skills Handler",
+      "file_type": "code",
+      "source_file": "server/src/routes/demoRoutes.js",
+      "source_location": "L45",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "demoroutes_badges_handler",
+      "label": "GET /badges Handler",
+      "file_type": "code",
+      "source_file": "server/src/routes/demoRoutes.js",
+      "source_location": "L49",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "experienceroutes_handlers",
+      "label": "Experience CRUD Route Handlers",
+      "file_type": "code",
+      "source_file": "server/src/routes/experienceRoutes.js",
+      "source_location": "L6",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skillroutes_get_handler",
+      "label": "GET / Skills Route Handler",
+      "file_type": "code",
+      "source_file": "server/src/routes/skillRoutes.js",
+      "source_location": "L6",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "progressionservice_levelsize",
+      "label": "levelSize (250 XP)",
+      "file_type": "code",
+      "source_file": "server/src/services/progressionService.js",
+      "source_location": "L7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "life_class_system",
+      "label": "Life Class Ranking System",
+      "file_type": "code",
+      "source_file": "server/src/services/progressionService.js",
+      "source_location": "L24",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "progression_rebuild_pipeline",
+      "label": "Progression Rebuild Pipeline",
+      "file_type": "code",
+      "source_file": "server/src/services/progressionService.js",
+      "source_location": "L55",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "docker_compose_mongo_service",
+      "label": "mongo service",
+      "file_type": "document",
+      "source_file": "docker-compose.yml",
+      "source_location": "L2-L8",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "docker_compose_mongo_7",
+      "label": "mongo:7 Docker image",
+      "file_type": "document",
+      "source_file": "docker-compose.yml",
+      "source_location": "L3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "docker_compose_life_xp_mongo_container",
+      "label": "life-xp-mongo container",
+      "file_type": "document",
+      "source_file": "docker-compose.yml",
+      "source_location": "L4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "docker_compose_life_xp_mongo_volume",
+      "label": "life-xp-mongo volume",
+      "file_type": "document",
+      "source_file": "docker-compose.yml",
+      "source_location": "L8,L11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "docker_compose_port_27017",
+      "label": "Port 27017",
+      "file_type": "document",
+      "source_file": "docker-compose.yml",
+      "source_location": "L6",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_life_xp",
+      "label": "Life XP",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1-L3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Full-stack gamified self-growth platform where users log real-life experiences and earn XP, levels, skills, classes, and badges."
+    },
+    {
+      "id": "readme_gamified_self_growth",
+      "label": "Gamified Self-Growth Platform",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_experience_logging",
+      "label": "Experience Logging",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_xp",
+      "label": "XP",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_levels",
+      "label": "Levels",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_skills",
+      "label": "Skills",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_classes",
+      "label": "Classes",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_badges",
+      "label": "Badges",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_react",
+      "label": "React",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_vite",
+      "label": "Vite",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_tailwind_css",
+      "label": "Tailwind CSS",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_react_router",
+      "label": "React Router",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_recharts",
+      "label": "Recharts",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_nodejs",
+      "label": "Node.js",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L8",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_expressjs",
+      "label": "Express.js",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L8",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_mongodb",
+      "label": "MongoDB",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L9",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Primary database; local development uses Docker Compose mongo service on default URL, while MongoDB Atlas connection strings belong in server/.env not .env.example."
+    },
+    {
+      "id": "readme_mongoose",
+      "label": "Mongoose",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L9",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_mongodb_atlas",
+      "label": "MongoDB Atlas",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L26",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_mongodb_uri",
+      "label": "MONGODB_URI / MONGO_URI",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L25",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_frontend_dev_server",
+      "label": "Frontend Dev Server (localhost:5173)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L46",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_backend_server",
+      "label": "Backend Server (localhost:5000)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L48",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_npm_seed",
+      "label": "npm run seed",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L37",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_npm_dev",
+      "label": "npm run dev",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L43",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_docker_compose_up",
+      "label": "docker compose up -d",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L31",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "client_index_html_entry",
+      "label": "client/index.html",
+      "file_type": "code",
+      "source_file": "client/index.html",
+      "source_location": "L1-L12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "client_index_html_root_mount",
+      "label": "#root React mount point",
+      "file_type": "code",
+      "source_file": "client/index.html",
+      "source_location": "L9",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "client_index_html_main_jsx",
+      "label": "main.jsx entry script",
+      "file_type": "code",
+      "source_file": "client/index.html",
+      "source_location": "L10",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "life_xp_hero_image",
+      "label": "Life XP Hero Image",
+      "file_type": "image",
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fantasy_landscape_hero",
+      "label": "Fantasy Landscape Hero Painting",
+      "file_type": "image",
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "winding_stone_path",
+      "label": "Winding Stone Path",
+      "file_type": "image",
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mountain_castle",
+      "label": "Mountain Castle",
+      "file_type": "image",
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sunset_lighting",
+      "label": "Sunset Lighting",
+      "file_type": "image",
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "purple_magical_crystals",
+      "label": "Purple Magical Crystals",
+      "file_type": "image",
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "magical_particles",
+      "label": "Magical Glowing Particles",
+      "file_type": "image",
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "atmospheric_perspective",
+      "label": "Atmospheric Perspective",
+      "file_type": "image",
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "misty_purple_valley",
+      "label": "Misty Purple Valley",
+      "file_type": "image",
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "snow_capped_mountains",
+      "label": "Snow-Capped Mountains",
+      "file_type": "image",
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "stone_bridge",
+      "label": "Stone Bridge",
+      "file_type": "image",
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "leading_line_composition",
+      "label": "Leading Line Composition",
+      "file_type": "image",
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "light_dark_contrast",
+      "label": "Light-Dark Thematic Contrast",
+      "file_type": "image",
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landing_hero_background",
+      "label": "Landing Page Hero Background",
+      "file_type": "image",
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rpg_progression_metaphor",
+      "label": "RPG Progression Metaphor",
+      "file_type": "image",
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rule_of_thirds_focal_point",
+      "label": "Rule of Thirds Focal Point",
+      "file_type": "image",
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wide_format_banner",
+      "label": "Wide-Format Banner Layout",
+      "file_type": "image",
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "client_vite_config_js",
+      "target": "plugin_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\vite.config.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "client_vite_config_js",
+      "target": "vite",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\vite.config.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_main_jsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\main.jsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_main_jsx",
+      "target": "client",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\main.jsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_main_jsx",
+      "target": "react_router_dom",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\main.jsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_main_jsx",
+      "target": "e_inara_task_1_client_src_router_tsx",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\main.jsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_main_jsx",
+      "target": "e_inara_task_1_client_src_styles_css",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\main.jsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_router_jsx",
+      "target": "react_router_dom",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\router.jsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_router_jsx",
+      "target": "e_inara_task_1_client_src_components_layout_applayout_tsx",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\router.jsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_router_jsx",
+      "target": "e_inara_task_1_client_src_pages_addexperience_tsx",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\router.jsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_router_jsx",
+      "target": "e_inara_task_1_client_src_pages_badges_tsx",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\router.jsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_router_jsx",
+      "target": "e_inara_task_1_client_src_pages_dashboard_tsx",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\router.jsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_router_jsx",
+      "target": "e_inara_task_1_client_src_pages_landing_tsx",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\router.jsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_router_jsx",
+      "target": "e_inara_task_1_client_src_pages_skills_tsx",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\router.jsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_router_jsx",
+      "target": "e_inara_task_1_client_src_pages_timeline_tsx",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\router.jsx",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_api_api_js",
+      "target": "axios",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\api\\api.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_components_badgeunlockmodal_jsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\components\\BadgeUnlockModal.jsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_components_badgeunlockmodal_jsx",
+      "target": "components_badgeunlockmodal_badgeunlockmodal",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\components\\BadgeUnlockModal.jsx",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_components_experiencelist_jsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\components\\ExperienceList.jsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_components_experiencelist_jsx",
+      "target": "e_inara_task_1_client_src_constants_categories_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\components\\ExperienceList.jsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_components_experiencelist_jsx",
+      "target": "e_inara_task_1_client_src_utils_progression_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\components\\ExperienceList.jsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_components_experiencelist_jsx",
+      "target": "components_experiencelist_experiencelist",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\components\\ExperienceList.jsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_components_toast_jsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\components\\Toast.jsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_components_toast_jsx",
+      "target": "components_toast_toast",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\components\\Toast.jsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_components_layout_applayout_jsx",
+      "target": "react_router_dom",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\components\\layout\\AppLayout.jsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_components_layout_applayout_jsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\components\\layout\\AppLayout.jsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_components_layout_applayout_jsx",
+      "target": "layout_applayout_applayout",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\components\\layout\\AppLayout.jsx",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_components_ui_card_jsx",
+      "target": "ui_card_card",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\components\\ui\\Card.jsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_components_ui_emptystate_jsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\components\\ui\\EmptyState.jsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_components_ui_emptystate_jsx",
+      "target": "react_router_dom",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\components\\ui\\EmptyState.jsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_components_ui_emptystate_jsx",
+      "target": "ui_emptystate_emptystate",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\components\\ui\\EmptyState.jsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_components_ui_progressbar_jsx",
+      "target": "ui_progressbar_progressbar",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\components\\ui\\ProgressBar.jsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_hooks_useapi_js",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\hooks\\useApi.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_hooks_useapi_js",
+      "target": "hooks_useapi_useapi",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\hooks\\useApi.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_addexperience_jsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\AddExperience.jsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_addexperience_jsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\AddExperience.jsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_addexperience_jsx",
+      "target": "react_router_dom",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\AddExperience.jsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_addexperience_jsx",
+      "target": "e_inara_task_1_client_src_api_api_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\AddExperience.jsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_addexperience_jsx",
+      "target": "e_inara_task_1_client_src_components_badgeunlockmodal_tsx",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\AddExperience.jsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_addexperience_jsx",
+      "target": "e_inara_task_1_client_src_components_toast_tsx",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\AddExperience.jsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_addexperience_jsx",
+      "target": "e_inara_task_1_client_src_components_ui_card_tsx",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\AddExperience.jsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_addexperience_jsx",
+      "target": "e_inara_task_1_client_src_constants_categories_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\AddExperience.jsx",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_addexperience_jsx",
+      "target": "e_inara_task_1_client_src_constants_progressionrules_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\AddExperience.jsx",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_addexperience_jsx",
+      "target": "pages_addexperience_addexperience",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\AddExperience.jsx",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_badges_jsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Badges.jsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_badges_jsx",
+      "target": "e_inara_task_1_client_src_api_api_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Badges.jsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_badges_jsx",
+      "target": "e_inara_task_1_client_src_components_ui_card_tsx",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Badges.jsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_badges_jsx",
+      "target": "e_inara_task_1_client_src_components_ui_emptystate_tsx",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Badges.jsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_badges_jsx",
+      "target": "e_inara_task_1_client_src_hooks_useapi_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Badges.jsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_badges_jsx",
+      "target": "pages_badges_badgecard",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Badges.jsx",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_badges_jsx",
+      "target": "pages_badges_badges",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Badges.jsx",
+      "source_location": "L32",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_dashboard_jsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Dashboard.jsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_dashboard_jsx",
+      "target": "recharts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Dashboard.jsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_dashboard_jsx",
+      "target": "e_inara_task_1_client_src_api_api_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Dashboard.jsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_dashboard_jsx",
+      "target": "e_inara_task_1_client_src_components_experiencelist_tsx",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Dashboard.jsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_dashboard_jsx",
+      "target": "e_inara_task_1_client_src_components_ui_card_tsx",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Dashboard.jsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_dashboard_jsx",
+      "target": "e_inara_task_1_client_src_components_ui_emptystate_tsx",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Dashboard.jsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_dashboard_jsx",
+      "target": "e_inara_task_1_client_src_components_ui_progressbar_tsx",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Dashboard.jsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_dashboard_jsx",
+      "target": "e_inara_task_1_client_src_hooks_useapi_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Dashboard.jsx",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_dashboard_jsx",
+      "target": "e_inara_task_1_client_src_utils_progression_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Dashboard.jsx",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_dashboard_jsx",
+      "target": "pages_dashboard_statcard",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Dashboard.jsx",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_dashboard_jsx",
+      "target": "pages_dashboard_getleveltitle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Dashboard.jsx",
+      "source_location": "L60",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_dashboard_jsx",
+      "target": "pages_dashboard_journeymetric",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Dashboard.jsx",
+      "source_location": "L64",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_dashboard_jsx",
+      "target": "pages_dashboard_dashboard",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Dashboard.jsx",
+      "source_location": "L74",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_dashboard_dashboard",
+      "target": "pages_dashboard_getleveltitle",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Dashboard.jsx",
+      "source_location": "L115",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_landing_jsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Landing.jsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_landing_jsx",
+      "target": "react_router_dom",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Landing.jsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_landing_jsx",
+      "target": "e_inara_task_1_client_src_assets_life_xp_hero_png",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Landing.jsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_landing_jsx",
+      "target": "pages_landing_landing",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Landing.jsx",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_skills_jsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Skills.jsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_skills_jsx",
+      "target": "e_inara_task_1_client_src_api_api_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Skills.jsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_skills_jsx",
+      "target": "e_inara_task_1_client_src_components_ui_card_tsx",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Skills.jsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_skills_jsx",
+      "target": "e_inara_task_1_client_src_components_ui_emptystate_tsx",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Skills.jsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_skills_jsx",
+      "target": "e_inara_task_1_client_src_components_ui_progressbar_tsx",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Skills.jsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_skills_jsx",
+      "target": "e_inara_task_1_client_src_hooks_useapi_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Skills.jsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_skills_jsx",
+      "target": "e_inara_task_1_client_src_utils_progression_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Skills.jsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_skills_jsx",
+      "target": "pages_skills_skills",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Skills.jsx",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_timeline_jsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Timeline.jsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_timeline_jsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Timeline.jsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_timeline_jsx",
+      "target": "e_inara_task_1_client_src_api_api_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Timeline.jsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_timeline_jsx",
+      "target": "e_inara_task_1_client_src_components_ui_card_tsx",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Timeline.jsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_timeline_jsx",
+      "target": "e_inara_task_1_client_src_components_ui_emptystate_tsx",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Timeline.jsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_timeline_jsx",
+      "target": "e_inara_task_1_client_src_constants_categories_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Timeline.jsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_timeline_jsx",
+      "target": "e_inara_task_1_client_src_hooks_useapi_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Timeline.jsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_timeline_jsx",
+      "target": "e_inara_task_1_client_src_utils_progression_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Timeline.jsx",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_pages_timeline_jsx",
+      "target": "pages_timeline_timeline",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\pages\\Timeline.jsx",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_utils_progression_js",
+      "target": "utils_progression_skilllevel",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\utils\\progression.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_utils_progression_js",
+      "target": "utils_progression_skillprogress",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\utils\\progression.js",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_utils_progression_js",
+      "target": "utils_progression_skillrank",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\utils\\progression.js",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_utils_progression_js",
+      "target": "utils_progression_formatdate",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\utils\\progression.js",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_utils_progression_js",
+      "target": "utils_progression_yearof",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\utils\\progression.js",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_utils_progression_js",
+      "target": "utils_progression_pluralize",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client\\src\\utils\\progression.js",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_app_js",
+      "target": "cors",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\app.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_app_js",
+      "target": "express",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\app.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_app_js",
+      "target": "morgan",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\app.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_app_js",
+      "target": "e_inara_task_1_server_src_routes_badgeroutes_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\app.js",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_app_js",
+      "target": "e_inara_task_1_server_src_routes_dashboardroutes_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\app.js",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_app_js",
+      "target": "e_inara_task_1_server_src_routes_experienceroutes_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\app.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_app_js",
+      "target": "e_inara_task_1_server_src_routes_skillroutes_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\app.js",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_app_js",
+      "target": "e_inara_task_1_server_src_routes_demoroutes_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\app.js",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_app_js",
+      "target": "src_app_createapp",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\app.js",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_seed_js",
+      "target": "dotenv",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\seed.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_seed_js",
+      "target": "mongoose",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\seed.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_seed_js",
+      "target": "e_inara_task_1_server_src_config_db_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\seed.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_seed_js",
+      "target": "e_inara_task_1_server_src_models_experience_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\seed.js",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_seed_js",
+      "target": "e_inara_task_1_server_src_models_skill_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\seed.js",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_seed_js",
+      "target": "e_inara_task_1_server_src_models_badge_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\seed.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_seed_js",
+      "target": "e_inara_task_1_server_src_models_userstats_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\seed.js",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_seed_js",
+      "target": "e_inara_task_1_server_src_services_progressionservice_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\seed.js",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_seed_js",
+      "target": "src_seed_seed",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\seed.js",
+      "source_location": "L45",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_server_js",
+      "target": "dotenv",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\server.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_server_js",
+      "target": "e_inara_task_1_server_src_app_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\server.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_server_js",
+      "target": "e_inara_task_1_server_src_config_db_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\server.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_server_js",
+      "target": "src_server_start",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\server.js",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_config_db_js",
+      "target": "mongoose",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\config\\db.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_config_db_js",
+      "target": "config_db_connectdb",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\config\\db.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_controllers_badgecontroller_js",
+      "target": "e_inara_task_1_server_src_services_progressionservice_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\controllers\\badgeController.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_controllers_badgecontroller_js",
+      "target": "controllers_badgecontroller_getbadges",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\controllers\\badgeController.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_controllers_dashboardcontroller_js",
+      "target": "e_inara_task_1_server_src_models_experience_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\controllers\\dashboardController.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_controllers_dashboardcontroller_js",
+      "target": "e_inara_task_1_server_src_services_progressionservice_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\controllers\\dashboardController.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_controllers_dashboardcontroller_js",
+      "target": "controllers_dashboardcontroller_getdashboard",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\controllers\\dashboardController.js",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_controllers_experiencecontroller_js",
+      "target": "e_inara_task_1_server_src_models_experience_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\controllers\\experienceController.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_controllers_experiencecontroller_js",
+      "target": "e_inara_task_1_server_src_data_rules_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\controllers\\experienceController.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_controllers_experiencecontroller_js",
+      "target": "e_inara_task_1_server_src_services_progressionservice_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\controllers\\experienceController.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_controllers_experiencecontroller_js",
+      "target": "controllers_experiencecontroller_getexperiences",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\controllers\\experienceController.js",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_controllers_experiencecontroller_js",
+      "target": "controllers_experiencecontroller_createexperience",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\controllers\\experienceController.js",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_controllers_experiencecontroller_js",
+      "target": "controllers_experiencecontroller_deleteexperience",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\controllers\\experienceController.js",
+      "source_location": "L41",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_controllers_skillcontroller_js",
+      "target": "e_inara_task_1_server_src_services_progressionservice_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\controllers\\skillController.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_controllers_skillcontroller_js",
+      "target": "controllers_skillcontroller_getskills",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\controllers\\skillController.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_demo_demostore_js",
+      "target": "e_inara_task_1_server_src_demo_demoutils_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_demo_demostore_js",
+      "target": "e_inara_task_1_server_src_data_rules_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_demo_demostore_js",
+      "target": "e_inara_task_1_server_src_services_progressionservice_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_demo_demostore_js",
+      "target": "demo_demostore_sortbydate",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L47",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_demo_demostore_js",
+      "target": "demo_demostore_computeskills",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L51",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_demo_demostore_js",
+      "target": "demo_demostore_computestats",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L65",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_demo_demostore_js",
+      "target": "demo_demostore_computebadges",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L76",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_demo_demostore_js",
+      "target": "demo_demostore_getdemoexperiences",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L89",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_demo_demostore_js",
+      "target": "demo_demostore_adddemoexperience",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L93",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_demo_demostore_js",
+      "target": "demo_demostore_deletedemoexperience",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L108",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_demo_demostore_js",
+      "target": "demo_demostore_getdemoskills",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L114",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_demo_demostore_js",
+      "target": "demo_demostore_getdemobadges",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L118",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_demo_demostore_js",
+      "target": "demo_demostore_getdemodashboard",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L122",
+      "weight": 1.0
+    },
+    {
+      "source": "demo_demostore_computebadges",
+      "target": "demo_demostore_computestats",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L77",
+      "weight": 1.0
+    },
+    {
+      "source": "demo_demostore_computebadges",
+      "target": "demo_demostore_computeskills",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L78",
+      "weight": 1.0
+    },
+    {
+      "source": "demo_demostore_getdemoexperiences",
+      "target": "demo_demostore_sortbydate",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L90",
+      "weight": 1.0
+    },
+    {
+      "source": "demo_demostore_getdemoskills",
+      "target": "demo_demostore_computeskills",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L115",
+      "weight": 1.0
+    },
+    {
+      "source": "demo_demostore_getdemobadges",
+      "target": "demo_demostore_computebadges",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L119",
+      "weight": 1.0
+    },
+    {
+      "source": "demo_demostore_getdemodashboard",
+      "target": "demo_demostore_computestats",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L123",
+      "weight": 1.0
+    },
+    {
+      "source": "demo_demostore_getdemodashboard",
+      "target": "demo_demostore_computeskills",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L124",
+      "weight": 1.0
+    },
+    {
+      "source": "demo_demostore_getdemodashboard",
+      "target": "demo_demostore_computebadges",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L125",
+      "weight": 1.0
+    },
+    {
+      "source": "demo_demostore_getdemodashboard",
+      "target": "demo_demostore_sortbydate",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L130",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_demo_demoutils_js",
+      "target": "e_inara_task_1_server_src_data_rules_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\demo\\demoUtils.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_demo_demoutils_js",
+      "target": "demo_demoutils_getskillrules",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\demo\\demoUtils.js",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_models_badge_js",
+      "target": "mongoose",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\models\\Badge.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_models_experience_js",
+      "target": "mongoose",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\models\\Experience.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_models_skill_js",
+      "target": "mongoose",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\models\\Skill.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_models_userstats_js",
+      "target": "mongoose",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\models\\UserStats.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_routes_badgeroutes_js",
+      "target": "express",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\routes\\badgeRoutes.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_routes_badgeroutes_js",
+      "target": "e_inara_task_1_server_src_controllers_badgecontroller_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\routes\\badgeRoutes.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_routes_dashboardroutes_js",
+      "target": "express",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\routes\\dashboardRoutes.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_routes_dashboardroutes_js",
+      "target": "e_inara_task_1_server_src_controllers_dashboardcontroller_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\routes\\dashboardRoutes.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_routes_demoroutes_js",
+      "target": "express",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\routes\\demoRoutes.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_routes_demoroutes_js",
+      "target": "e_inara_task_1_server_src_data_rules_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\routes\\demoRoutes.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_routes_demoroutes_js",
+      "target": "e_inara_task_1_server_src_demo_demostore_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\routes\\demoRoutes.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_routes_experienceroutes_js",
+      "target": "express",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\routes\\experienceRoutes.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_routes_experienceroutes_js",
+      "target": "e_inara_task_1_server_src_controllers_experiencecontroller_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\routes\\experienceRoutes.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_routes_skillroutes_js",
+      "target": "express",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\routes\\skillRoutes.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_routes_skillroutes_js",
+      "target": "e_inara_task_1_server_src_controllers_skillcontroller_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\routes\\skillRoutes.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_services_progressionservice_js",
+      "target": "e_inara_task_1_server_src_models_badge_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\services\\progressionService.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_services_progressionservice_js",
+      "target": "e_inara_task_1_server_src_models_experience_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\services\\progressionService.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_services_progressionservice_js",
+      "target": "e_inara_task_1_server_src_models_skill_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\services\\progressionService.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_services_progressionservice_js",
+      "target": "e_inara_task_1_server_src_models_userstats_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\services\\progressionService.js",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_services_progressionservice_js",
+      "target": "e_inara_task_1_server_src_data_rules_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\services\\progressionService.js",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_services_progressionservice_js",
+      "target": "services_progressionservice_calculatelevel",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\services\\progressionService.js",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_services_progressionservice_js",
+      "target": "services_progressionservice_getlevelprogress",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\services\\progressionService.js",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_services_progressionservice_js",
+      "target": "services_progressionservice_getlifeclass",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\services\\progressionService.js",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_services_progressionservice_js",
+      "target": "services_progressionservice_ensurebadges",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\services\\progressionService.js",
+      "source_location": "L39",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_services_progressionservice_js",
+      "target": "services_progressionservice_rebuildprogression",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\services\\progressionService.js",
+      "source_location": "L55",
+      "weight": 1.0
+    },
+    {
+      "source": "server_src_services_progressionservice_js",
+      "target": "services_progressionservice_getxpforcategory",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\services\\progressionService.js",
+      "source_location": "L103",
+      "weight": 1.0
+    },
+    {
+      "source": "services_progressionservice_getlevelprogress",
+      "target": "services_progressionservice_calculatelevel",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\services\\progressionService.js",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "services_progressionservice_rebuildprogression",
+      "target": "services_progressionservice_ensurebadges",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\services\\progressionService.js",
+      "source_location": "L56",
+      "weight": 1.0
+    },
+    {
+      "source": "services_progressionservice_rebuildprogression",
+      "target": "services_progressionservice_calculatelevel",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "server\\src\\services\\progressionService.js",
+      "source_location": "L78",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_badges_badges",
+      "target": "hooks_useapi_useapi",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "client\\src\\pages\\Badges.jsx",
+      "source_location": "L33",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_dashboard_dashboard",
+      "target": "hooks_useapi_useapi",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "client\\src\\pages\\Dashboard.jsx",
+      "source_location": "L75",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_dashboard_dashboard",
+      "target": "utils_progression_pluralize",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "client\\src\\pages\\Dashboard.jsx",
+      "source_location": "L172",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_skills_skills",
+      "target": "hooks_useapi_useapi",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "client\\src\\pages\\Skills.jsx",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_timeline_timeline",
+      "target": "hooks_useapi_useapi",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "client\\src\\pages\\Timeline.jsx",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "src_seed_seed",
+      "target": "config_db_connectdb",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "server\\src\\seed.js",
+      "source_location": "L46",
+      "weight": 1.0
+    },
+    {
+      "source": "src_seed_seed",
+      "target": "services_progressionservice_rebuildprogression",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "server\\src\\seed.js",
+      "source_location": "L61",
+      "weight": 1.0
+    },
+    {
+      "source": "src_server_start",
+      "target": "config_db_connectdb",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "server\\src\\server.js",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "src_server_start",
+      "target": "src_app_createapp",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "server\\src\\server.js",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "controllers_badgecontroller_getbadges",
+      "target": "services_progressionservice_rebuildprogression",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "server\\src\\controllers\\badgeController.js",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "controllers_dashboardcontroller_getdashboard",
+      "target": "services_progressionservice_rebuildprogression",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "server\\src\\controllers\\dashboardController.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "controllers_dashboardcontroller_getdashboard",
+      "target": "services_progressionservice_getlevelprogress",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "server\\src\\controllers\\dashboardController.js",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "controllers_dashboardcontroller_getdashboard",
+      "target": "services_progressionservice_getlifeclass",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "server\\src\\controllers\\dashboardController.js",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "controllers_experiencecontroller_createexperience",
+      "target": "services_progressionservice_getxpforcategory",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "server\\src\\controllers\\experienceController.js",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "controllers_experiencecontroller_createexperience",
+      "target": "services_progressionservice_rebuildprogression",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "server\\src\\controllers\\experienceController.js",
+      "source_location": "L34",
+      "weight": 1.0
+    },
+    {
+      "source": "controllers_experiencecontroller_deleteexperience",
+      "target": "services_progressionservice_rebuildprogression",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "server\\src\\controllers\\experienceController.js",
+      "source_location": "L49",
+      "weight": 1.0
+    },
+    {
+      "source": "controllers_skillcontroller_getskills",
+      "target": "services_progressionservice_rebuildprogression",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "server\\src\\controllers\\skillController.js",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "demo_demostore_computestats",
+      "target": "services_progressionservice_calculatelevel",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L71",
+      "weight": 1.0
+    },
+    {
+      "source": "demo_demostore_getdemodashboard",
+      "target": "services_progressionservice_getlevelprogress",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L129",
+      "weight": 1.0
+    },
+    {
+      "source": "demo_demostore_getdemodashboard",
+      "target": "services_progressionservice_getlifeclass",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "server\\src\\demo\\demoStore.js",
+      "source_location": "L132",
+      "weight": 1.0
+    },
+    {
+      "source": "vite_api_proxy",
+      "target": "api_axios_client",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "client/vite.config.js",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "client_src_main_jsx",
+      "target": "router_router",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/main.jsx",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "router_router",
+      "target": "layout_applayout_applayout",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/router.jsx",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "api_endpoints_dashboard",
+      "target": "api_axios_client",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/api/api.js",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "api_endpoints_experiences",
+      "target": "api_axios_client",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/api/api.js",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "api_endpoints_createexperience",
+      "target": "api_axios_client",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/api/api.js",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "api_endpoints_deleteexperience",
+      "target": "api_axios_client",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/api/api.js",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "api_endpoints_skills",
+      "target": "api_axios_client",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/api/api.js",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "api_endpoints_badges",
+      "target": "api_axios_client",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/api/api.js",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "components_badgeunlockmodal_badgeunlockmodal",
+      "target": "tailwind_xp_theme",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "client/src/components/BadgeUnlockModal.jsx",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "components_experiencelist_experiencelist",
+      "target": "utils_progression_formatdate",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/components/ExperienceList.jsx",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "components_experiencelist_experiencelist",
+      "target": "constants_categories_colors",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/components/ExperienceList.jsx",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "components_experiencelist_experiencelist",
+      "target": "pages_timeline_timeline",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "client/src/components/ExperienceList.jsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "layout_applayout_applayout",
+      "target": "layout_navitems",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/components/layout/AppLayout.jsx",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "layout_navitems",
+      "target": "router_router",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "client/src/components/layout/AppLayout.jsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_emptystate_emptystate",
+      "target": "pages_addexperience_addexperience",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/components/ui/EmptyState.jsx",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "constants_categories_colors",
+      "target": "constants_categories_list",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "client/src/constants/categories.js",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "progressionrules_categoryxp",
+      "target": "constants_categories_list",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "client/src/constants/progressionRules.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "progressionrules_categoryskillgains",
+      "target": "constants_categories_list",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "client/src/constants/progressionRules.js",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "progressionrules_categoryxp",
+      "target": "progressionrules_categoryskillgains",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "client/src/constants/progressionRules.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_useapi_load",
+      "target": "api_endpoints_dashboard",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "client/src/hooks/useApi.js",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_useapi_load",
+      "target": "api_endpoints_experiences",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "client/src/hooks/useApi.js",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_useapi_load",
+      "target": "api_endpoints_skills",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "client/src/hooks/useApi.js",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_useapi_load",
+      "target": "api_endpoints_badges",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "client/src/hooks/useApi.js",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_useapi_useapi",
+      "target": "hooks_useapi_load",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/hooks/useApi.js",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "addexperience_submit",
+      "target": "api_endpoints_badges",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/AddExperience.jsx",
+      "source_location": "L36",
+      "weight": 1.0
+    },
+    {
+      "source": "addexperience_submit",
+      "target": "api_endpoints_createexperience",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/AddExperience.jsx",
+      "source_location": "L37",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_addexperience_addexperience",
+      "target": "addexperience_submit",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/AddExperience.jsx",
+      "source_location": "L77",
+      "weight": 1.0
+    },
+    {
+      "source": "addexperience_submit",
+      "target": "progressionrules_categoryxp",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/AddExperience.jsx",
+      "source_location": "L46",
+      "weight": 1.0
+    },
+    {
+      "source": "addexperience_submit",
+      "target": "progressionrules_categoryskillgains",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/AddExperience.jsx",
+      "source_location": "L47",
+      "weight": 1.0
+    },
+    {
+      "source": "addexperience_submit",
+      "target": "addexperience_badge_unlock_detection",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/AddExperience.jsx",
+      "source_location": "L39",
+      "weight": 1.0
+    },
+    {
+      "source": "addexperience_badge_unlock_detection",
+      "target": "components_badgeunlockmodal_badgeunlockmodal",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/AddExperience.jsx",
+      "source_location": "L65",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_addexperience_addexperience",
+      "target": "constants_categories_list",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/AddExperience.jsx",
+      "source_location": "L85",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_addexperience_addexperience",
+      "target": "components_toast_toast",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/AddExperience.jsx",
+      "source_location": "L64",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_badges_badges",
+      "target": "api_endpoints_badges",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/Badges.jsx",
+      "source_location": "L33",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_badges_badges",
+      "target": "pages_badges_badgecard",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/Badges.jsx",
+      "source_location": "L50",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_badges_badges",
+      "target": "badges_iconmap",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/Badges.jsx",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_dashboard_dashboard",
+      "target": "api_endpoints_dashboard",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/Dashboard.jsx",
+      "source_location": "L75",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_dashboard_dashboard",
+      "target": "api_endpoints_skills",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/Dashboard.jsx",
+      "source_location": "L76",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_dashboard_dashboard",
+      "target": "api_endpoints_experiences",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/Dashboard.jsx",
+      "source_location": "L77",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_dashboard_dashboard",
+      "target": "utils_progression_yearof",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/Dashboard.jsx",
+      "source_location": "L84",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_dashboard_dashboard",
+      "target": "pages_dashboard_getleveltitle",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/Dashboard.jsx",
+      "source_location": "L115",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_dashboard_dashboard",
+      "target": "dashboard_classdetails",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/Dashboard.jsx",
+      "source_location": "L87",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_dashboard_dashboard",
+      "target": "dashboard_leveltitles",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/Dashboard.jsx",
+      "source_location": "L115",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_dashboard_dashboard",
+      "target": "components_experiencelist_experiencelist",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/Dashboard.jsx",
+      "source_location": "L186",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_landing_landing",
+      "target": "tailwind_xp_theme",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "client/src/pages/Landing.jsx",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "life_xp_rpg_system",
+      "target": "progressionrules_categoryxp",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "client/src/pages/Landing.jsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_skills_skills",
+      "target": "api_endpoints_skills",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/Skills.jsx",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_skills_skills",
+      "target": "utils_progression_skilllevel",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/Skills.jsx",
+      "source_location": "L37",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_skills_skills",
+      "target": "utils_progression_skillprogress",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/Skills.jsx",
+      "source_location": "L50",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_skills_skills",
+      "target": "utils_progression_skillrank",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/Skills.jsx",
+      "source_location": "L38",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_skills_skills",
+      "target": "skills_rankstyles",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/Skills.jsx",
+      "source_location": "L38",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_timeline_timeline",
+      "target": "api_endpoints_experiences",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/Timeline.jsx",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "timeline_removeexperience",
+      "target": "api_endpoints_deleteexperience",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/Timeline.jsx",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_timeline_timeline",
+      "target": "timeline_removeexperience",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/Timeline.jsx",
+      "source_location": "L88",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_timeline_timeline",
+      "target": "utils_progression_formatdate",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/Timeline.jsx",
+      "source_location": "L76",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_timeline_timeline",
+      "target": "utils_progression_yearof",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/Timeline.jsx",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_timeline_timeline",
+      "target": "constants_categories_colors",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/Timeline.jsx",
+      "source_location": "L77",
+      "weight": 1.0
+    },
+    {
+      "source": "pages_timeline_timeline",
+      "target": "constants_categories_list",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/Timeline.jsx",
+      "source_location": "L54",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_progression_skilllevel",
+      "target": "client_skill_level_formula",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/utils/progression.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_progression_skillrank",
+      "target": "client_skill_rank_tiers",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/utils/progression.js",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_progression_skilllevel",
+      "target": "services_progressionservice_calculatelevel",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "client/src/utils/progression.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_progression_skillprogress",
+      "target": "services_progressionservice_getlevelprogress",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "client/src/utils/progression.js",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "src_app_createapp",
+      "target": "app_demo_mode_routing",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "server/src/app.js",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "src_seed_seed",
+      "target": "services_progressionservice_getxpforcategory",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/seed.js",
+      "source_location": "L57",
+      "weight": 1.0
+    },
+    {
+      "source": "src_seed_seed",
+      "target": "models_experience_document",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "server/src/seed.js",
+      "source_location": "L54",
+      "weight": 1.0
+    },
+    {
+      "source": "src_server_start",
+      "target": "server_demo_fallback",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "server/src/server.js",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "server_demo_fallback",
+      "target": "app_demo_mode_routing",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "server/src/server.js",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "controllers_dashboardcontroller_getdashboard",
+      "target": "models_experience_document",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/controllers/dashboardController.js",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "controllers_experiencecontroller_createexperience",
+      "target": "rules_categories",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "server/src/controllers/experienceController.js",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "rules_categories",
+      "target": "rules_categoryxp",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "server/src/data/rules.js",
+      "source_location": "L83",
+      "weight": 1.0
+    },
+    {
+      "source": "demo_demostore_computebadges",
+      "target": "demo_demostore_computestats",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/demo/demoStore.js",
+      "source_location": "L77",
+      "weight": 1.0
+    },
+    {
+      "source": "demo_demostore_computebadges",
+      "target": "demo_demostore_computeskills",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/demo/demoStore.js",
+      "source_location": "L78",
+      "weight": 1.0
+    },
+    {
+      "source": "demo_demostore_getdemodashboard",
+      "target": "demo_demostore_computestats",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/demo/demoStore.js",
+      "source_location": "L123",
+      "weight": 1.0
+    },
+    {
+      "source": "demo_demostore_getdemodashboard",
+      "target": "demo_demostore_computeskills",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/demo/demoStore.js",
+      "source_location": "L124",
+      "weight": 1.0
+    },
+    {
+      "source": "demo_demostore_getdemodashboard",
+      "target": "demo_demostore_computebadges",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/demo/demoStore.js",
+      "source_location": "L125",
+      "weight": 1.0
+    },
+    {
+      "source": "demo_demostore_computeskills",
+      "target": "rules_skillmapping",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "server/src/demo/demoStore.js",
+      "source_location": "L55",
+      "weight": 1.0
+    },
+    {
+      "source": "demo_demostore_computebadges",
+      "target": "rules_badgerules",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "server/src/demo/demoStore.js",
+      "source_location": "L80",
+      "weight": 1.0
+    },
+    {
+      "source": "demo_demostore_adddemoexperience",
+      "target": "rules_categoryxp",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "server/src/demo/demoStore.js",
+      "source_location": "L100",
+      "weight": 1.0
+    },
+    {
+      "source": "demostore_inmemory_experiences",
+      "target": "rules_categoryxp",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "server/src/demo/demoStore.js",
+      "source_location": "L43",
+      "weight": 1.0
+    },
+    {
+      "source": "demo_demostore_adddemoexperience",
+      "target": "demostore_inmemory_experiences",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "server/src/demo/demoStore.js",
+      "source_location": "L104",
+      "weight": 1.0
+    },
+    {
+      "source": "demo_demostore_getdemoexperiences",
+      "target": "demostore_inmemory_experiences",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "server/src/demo/demoStore.js",
+      "source_location": "L90",
+      "weight": 1.0
+    },
+    {
+      "source": "demo_demostore_computeskills",
+      "target": "services_progressionservice_rebuildprogression",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "server/src/demo/demoStore.js",
+      "source_location": "L51",
+      "weight": 1.0
+    },
+    {
+      "source": "demo_demostore_getdemodashboard",
+      "target": "controllers_dashboardcontroller_getdashboard",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "server/src/demo/demoStore.js",
+      "source_location": "L122",
+      "weight": 1.0
+    },
+    {
+      "source": "demo_demoutils_getskillrules",
+      "target": "rules_badgerules",
+      "relation": "references",
+      "confidence": "AMBIGUOUS",
+      "confidence_score": 0.2,
+      "source_file": "server/src/demo/demoUtils.js",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "badgeroutes_get_handler",
+      "target": "controllers_badgecontroller_getbadges",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/routes/badgeRoutes.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "dashboardroutes_get_handler",
+      "target": "controllers_dashboardcontroller_getdashboard",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/routes/dashboardRoutes.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "demoroutes_dashboard_handler",
+      "target": "demo_demostore_getdemodashboard",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/routes/demoRoutes.js",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "demoroutes_experiences_get_handler",
+      "target": "demo_demostore_getdemoexperiences",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/routes/demoRoutes.js",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "demoroutes_experiences_post_handler",
+      "target": "demo_demostore_adddemoexperience",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/routes/demoRoutes.js",
+      "source_location": "L33",
+      "weight": 1.0
+    },
+    {
+      "source": "demoroutes_experiences_post_handler",
+      "target": "demo_demostore_getdemodashboard",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/routes/demoRoutes.js",
+      "source_location": "L34",
+      "weight": 1.0
+    },
+    {
+      "source": "demoroutes_experiences_delete_handler",
+      "target": "demo_demostore_deletedemoexperience",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/routes/demoRoutes.js",
+      "source_location": "L38",
+      "weight": 1.0
+    },
+    {
+      "source": "demoroutes_experiences_delete_handler",
+      "target": "demo_demostore_getdemodashboard",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/routes/demoRoutes.js",
+      "source_location": "L42",
+      "weight": 1.0
+    },
+    {
+      "source": "demoroutes_skills_handler",
+      "target": "demo_demostore_getdemoskills",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/routes/demoRoutes.js",
+      "source_location": "L46",
+      "weight": 1.0
+    },
+    {
+      "source": "demoroutes_badges_handler",
+      "target": "demo_demostore_getdemobadges",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/routes/demoRoutes.js",
+      "source_location": "L50",
+      "weight": 1.0
+    },
+    {
+      "source": "demoroutes_experiences_post_handler",
+      "target": "rules_categories",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "server/src/routes/demoRoutes.js",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "demoroutes_experiences_post_handler",
+      "target": "controllers_experiencecontroller_createexperience",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "server/src/routes/demoRoutes.js",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "experienceroutes_handlers",
+      "target": "controllers_experiencecontroller_getexperiences",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/routes/experienceRoutes.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "experienceroutes_handlers",
+      "target": "controllers_experiencecontroller_createexperience",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/routes/experienceRoutes.js",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "experienceroutes_handlers",
+      "target": "controllers_experiencecontroller_deleteexperience",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/routes/experienceRoutes.js",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "skillroutes_get_handler",
+      "target": "controllers_skillcontroller_getskills",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/routes/skillRoutes.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "services_progressionservice_rebuildprogression",
+      "target": "services_progressionservice_ensurebadges",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/services/progressionService.js",
+      "source_location": "L56",
+      "weight": 1.0
+    },
+    {
+      "source": "services_progressionservice_rebuildprogression",
+      "target": "services_progressionservice_calculatelevel",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/services/progressionService.js",
+      "source_location": "L78",
+      "weight": 1.0
+    },
+    {
+      "source": "services_progressionservice_getlevelprogress",
+      "target": "services_progressionservice_calculatelevel",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/services/progressionService.js",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "services_progressionservice_ensurebadges",
+      "target": "models_badge_document",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/services/progressionService.js",
+      "source_location": "L42",
+      "weight": 1.0
+    },
+    {
+      "source": "services_progressionservice_rebuildprogression",
+      "target": "models_experience_document",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/services/progressionService.js",
+      "source_location": "L58",
+      "weight": 1.0
+    },
+    {
+      "source": "services_progressionservice_rebuildprogression",
+      "target": "models_skill_document",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/services/progressionService.js",
+      "source_location": "L68",
+      "weight": 1.0
+    },
+    {
+      "source": "services_progressionservice_rebuildprogression",
+      "target": "models_userstats_document",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/services/progressionService.js",
+      "source_location": "L74",
+      "weight": 1.0
+    },
+    {
+      "source": "services_progressionservice_getlifeclass",
+      "target": "life_class_system",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/services/progressionService.js",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "services_progressionservice_calculatelevel",
+      "target": "progressionservice_levelsize",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/services/progressionService.js",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "services_progressionservice_getxpforcategory",
+      "target": "rules_categoryxp",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "server/src/services/progressionService.js",
+      "source_location": "L103",
+      "weight": 1.0
+    },
+    {
+      "source": "services_progressionservice_rebuildprogression",
+      "target": "rules_skillmapping",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "server/src/services/progressionService.js",
+      "source_location": "L63",
+      "weight": 1.0
+    },
+    {
+      "source": "services_progressionservice_rebuildprogression",
+      "target": "rules_badgerules",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "server/src/services/progressionService.js",
+      "source_location": "L89",
+      "weight": 1.0
+    },
+    {
+      "source": "services_progressionservice_rebuildprogression",
+      "target": "progression_rebuild_pipeline",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "server/src/services/progressionService.js",
+      "source_location": "L55",
+      "weight": 1.0
+    },
+    {
+      "source": "docker_compose_mongo_service",
+      "target": "docker_compose_mongo_7",
+      "relation": "uses_image",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docker-compose.yml",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "docker_compose_mongo_service",
+      "target": "docker_compose_life_xp_mongo_container",
+      "relation": "named",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docker-compose.yml",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "docker_compose_mongo_service",
+      "target": "docker_compose_port_27017",
+      "relation": "exposes_port",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docker-compose.yml",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "docker_compose_mongo_service",
+      "target": "docker_compose_life_xp_mongo_volume",
+      "relation": "mounts_volume",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docker-compose.yml",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "readme_life_xp",
+      "target": "readme_gamified_self_growth",
+      "relation": "is_a",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "readme_life_xp",
+      "target": "readme_experience_logging",
+      "relation": "enables",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "readme_life_xp",
+      "target": "readme_react",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "readme_life_xp",
+      "target": "readme_vite",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "readme_life_xp",
+      "target": "readme_tailwind_css",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "readme_life_xp",
+      "target": "readme_react_router",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "readme_life_xp",
+      "target": "readme_recharts",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "readme_life_xp",
+      "target": "readme_nodejs",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "readme_life_xp",
+      "target": "readme_expressjs",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "readme_life_xp",
+      "target": "readme_mongodb",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "readme_life_xp",
+      "target": "readme_mongoose",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "readme_experience_logging",
+      "target": "readme_xp",
+      "relation": "rewards",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "readme_experience_logging",
+      "target": "readme_levels",
+      "relation": "rewards",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "readme_experience_logging",
+      "target": "readme_skills",
+      "relation": "rewards",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "readme_experience_logging",
+      "target": "readme_classes",
+      "relation": "rewards",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "readme_experience_logging",
+      "target": "readme_badges",
+      "relation": "rewards",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "readme_mongodb_uri",
+      "target": "readme_mongodb",
+      "relation": "configures",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "readme_mongodb_atlas",
+      "target": "readme_mongodb",
+      "relation": "hosts",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "README.md",
+      "source_location": "L26",
+      "weight": 1.0
+    },
+    {
+      "source": "readme_docker_compose_up",
+      "target": "readme_mongodb",
+      "relation": "starts",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "README.md",
+      "source_location": "L28-L31",
+      "weight": 1.0
+    },
+    {
+      "source": "readme_npm_dev",
+      "target": "readme_frontend_dev_server",
+      "relation": "starts",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "L43-L46",
+      "weight": 1.0
+    },
+    {
+      "source": "readme_npm_dev",
+      "target": "readme_backend_server",
+      "relation": "starts",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "L43-L48",
+      "weight": 1.0
+    },
+    {
+      "source": "readme_npm_seed",
+      "target": "readme_mongodb",
+      "relation": "seeds",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "README.md",
+      "source_location": "L34-L37",
+      "weight": 1.0
+    },
+    {
+      "source": "readme_mongoose",
+      "target": "readme_mongodb",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "readme_docker_compose_up",
+      "target": "docker_compose_mongo_service",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "README.md",
+      "source_location": "L28-L31",
+      "weight": 1.0
+    },
+    {
+      "source": "readme_mongodb",
+      "target": "docker_compose_mongo_service",
+      "relation": "default_local_via",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "README.md",
+      "source_location": "L25-L31",
+      "weight": 1.0
+    },
+    {
+      "source": "readme_mongodb",
+      "target": "docker_compose_port_27017",
+      "relation": "listens_on",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "README.md",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "readme_frontend_dev_server",
+      "target": "client_index_html_entry",
+      "relation": "serves",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "README.md",
+      "source_location": "L46",
+      "weight": 1.0
+    },
+    {
+      "source": "client_index_html_entry",
+      "target": "client_index_html_root_mount",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/index.html",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "client_index_html_entry",
+      "target": "client_index_html_main_jsx",
+      "relation": "loads",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/index.html",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "client_index_html_entry",
+      "target": "readme_life_xp",
+      "relation": "displays_title",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/index.html",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "client_index_html_main_jsx",
+      "target": "readme_react",
+      "relation": "bootstraps",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "client/index.html",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "client_index_html_main_jsx",
+      "target": "readme_vite",
+      "relation": "served_by",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "client/index.html",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "client_index_html_root_mount",
+      "target": "readme_react",
+      "relation": "mount_point_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "client/index.html",
+      "source_location": "L9-L10",
+      "weight": 1.0
+    },
+    {
+      "source": "life_xp_hero_image",
+      "target": "fantasy_landscape_hero",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "life_xp_hero_image",
+      "target": "landing_hero_background",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "life_xp_hero_image",
+      "target": "wide_format_banner",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "winding_stone_path",
+      "target": "mountain_castle",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "winding_stone_path",
+      "target": "leading_line_composition",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "winding_stone_path",
+      "target": "rpg_progression_metaphor",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mountain_castle",
+      "target": "sunset_lighting",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mountain_castle",
+      "target": "rule_of_thirds_focal_point",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mountain_castle",
+      "target": "stone_bridge",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sunset_lighting",
+      "target": "light_dark_contrast",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "misty_purple_valley",
+      "target": "light_dark_contrast",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "purple_magical_crystals",
+      "target": "magical_particles",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "purple_magical_crystals",
+      "target": "rpg_progression_metaphor",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "atmospheric_perspective",
+      "target": "snow_capped_mountains",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "atmospheric_perspective",
+      "target": "misty_purple_valley",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "leading_line_composition",
+      "target": "rule_of_thirds_focal_point",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fantasy_landscape_hero",
+      "target": "rpg_progression_metaphor",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "landing_hero_background",
+      "target": "wide_format_banner",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "light_dark_contrast",
+      "target": "rpg_progression_metaphor",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "winding_stone_path",
+      "target": "purple_magical_crystals",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "life_xp_hero_image",
+      "target": "rpg_progression_metaphor",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "magical_particles",
+      "target": "fantasy_landscape_hero",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "stone_bridge",
+      "target": "mountain_castle",
+      "relation": "conceptually_related_to",
+      "confidence": "AMBIGUOUS",
+      "confidence_score": 0.25,
+      "source_file": "client/src/assets/life-xp-hero.png",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "xp_category_rules",
+      "label": "Shared XP category taxonomy and rewards",
+      "nodes": [
+        "constants_categories_list",
+        "constants_categories_colors",
+        "progressionrules_categoryxp",
+        "progressionrules_categoryskillgains"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "client/src/constants/categories.js"
+    },
+    {
+      "id": "useapi_data_fetching",
+      "label": "useApi hook data fetching across pages",
+      "nodes": [
+        "hooks_useapi_useapi",
+        "hooks_useapi_load",
+        "pages_badges_badges",
+        "pages_dashboard_dashboard",
+        "pages_skills_skills",
+        "pages_timeline_timeline"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "client/src/hooks/useApi.js"
+    },
+    {
+      "id": "add_experience_flow",
+      "label": "Add experience submission and feedback flow",
+      "nodes": [
+        "pages_addexperience_addexperience",
+        "addexperience_submit",
+        "api_endpoints_createexperience",
+        "api_endpoints_badges",
+        "components_toast_toast",
+        "components_badgeunlockmodal_badgeunlockmodal"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/pages/AddExperience.jsx"
+    },
+    {
+      "id": "progression_rules_config",
+      "label": "Progression Rules Configuration",
+      "nodes": [
+        "rules_categoryxp",
+        "rules_skillmapping",
+        "rules_badgerules",
+        "rules_categories"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/data/rules.js"
+    },
+    {
+      "id": "demo_mode_api_surface",
+      "label": "Demo Mode API Surface",
+      "nodes": [
+        "demoroutes_dashboard_handler",
+        "demoroutes_experiences_get_handler",
+        "demoroutes_experiences_post_handler",
+        "demoroutes_experiences_delete_handler",
+        "demoroutes_skills_handler",
+        "demoroutes_badges_handler",
+        "demo_demostore_getdemodashboard",
+        "demo_demostore_getdemoexperiences",
+        "demo_demostore_adddemoexperience",
+        "demo_demostore_deletedemoexperience",
+        "demo_demostore_getdemoskills",
+        "demo_demostore_getdemobadges"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "server/src/routes/demoRoutes.js"
+    },
+    {
+      "id": "progression_rebuild_flow",
+      "label": "Mongo Progression Rebuild Flow",
+      "nodes": [
+        "services_progressionservice_rebuildprogression",
+        "services_progressionservice_ensurebadges",
+        "models_experience_document",
+        "models_skill_document",
+        "models_userstats_document",
+        "models_badge_document",
+        "rules_skillmapping",
+        "rules_badgerules"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "server/src/services/progressionService.js"
+    },
+    {
+      "id": "docker_compose_local_mongodb",
+      "label": "Local MongoDB Docker Setup",
+      "nodes": [
+        "docker_compose_mongo_service",
+        "docker_compose_mongo_7",
+        "docker_compose_life_xp_mongo_container",
+        "docker_compose_life_xp_mongo_volume",
+        "docker_compose_port_27017"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docker-compose.yml"
+    },
+    {
+      "id": "readme_frontend_stack",
+      "label": "Frontend Technology Stack",
+      "nodes": [
+        "readme_react",
+        "readme_vite",
+        "readme_tailwind_css",
+        "readme_react_router",
+        "readme_recharts"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md"
+    },
+    {
+      "id": "readme_backend_stack",
+      "label": "Backend Technology Stack",
+      "nodes": [
+        "readme_nodejs",
+        "readme_expressjs",
+        "readme_mongodb",
+        "readme_mongoose"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md"
+    },
+    {
+      "id": "readme_gamification_rewards",
+      "label": "Gamification Reward Mechanics",
+      "nodes": [
+        "readme_xp",
+        "readme_levels",
+        "readme_skills",
+        "readme_classes",
+        "readme_badges"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md"
+    },
+    {
+      "id": "adventure_journey_composition",
+      "label": "Adventure Journey Composition",
+      "nodes": [
+        "winding_stone_path",
+        "mountain_castle",
+        "sunset_lighting",
+        "rpg_progression_metaphor"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "client/src/assets/life-xp-hero.png"
+    },
+    {
+      "id": "magical_rpg_aesthetic",
+      "label": "Magical RPG Aesthetic Elements",
+      "nodes": [
+        "purple_magical_crystals",
+        "magical_particles",
+        "fantasy_landscape_hero",
+        "rpg_progression_metaphor"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "client/src/assets/life-xp-hero.png"
+    },
+    {
+      "id": "depth_atmosphere_layering",
+      "label": "Depth and Atmosphere Layering",
+      "nodes": [
+        "atmospheric_perspective",
+        "misty_purple_valley",
+        "snow_capped_mountains",
+        "sunset_lighting"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "client/src/assets/life-xp-hero.png"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

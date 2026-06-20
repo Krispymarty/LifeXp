@@ -1,0 +1,1 @@
+{"nodes": [], "edges": [{"source": "controllers_experiencecontroller_createexperience", "target": "rules_categories", "relation": "shares_data_with", "confidence": "INFERRED", "confidence_score": 0.9, "source_file": "server/src/controllers/experienceController.js", "source_location": "L22", "weight": 1.0}], "hyperedges": []}

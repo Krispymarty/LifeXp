@@ -1,0 +1,1 @@
+{"nodes": [], "edges": [{"source": "demo_demoutils_getskillrules", "target": "rules_badgerules", "relation": "references", "confidence": "AMBIGUOUS", "confidence_score": 0.2, "source_file": "server/src/demo/demoUtils.js", "source_location": "L5", "weight": 1.0}], "hyperedges": []}
