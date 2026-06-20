@@ -2,8 +2,8 @@
  * Skill Extraction Service
  * 
  * Extracts skills from experience descriptions using two strategies:
- * 1. Ollama LLM extraction (primary) — constrained to canonical skill names
- * 2. Keyword-based extraction (fallback) — when Ollama is unavailable
+ * 1. Groq LLM extraction (primary) — constrained to canonical skill names
+ * 2. Keyword-based extraction (fallback) — when Groq is unavailable
  */
 
 const CANONICAL_SKILLS = [
@@ -75,9 +75,9 @@ const keywordMapping = {
   'introspect': ['Self Awareness'], 'personal growth': ['Self Awareness']
 };
 
-const OLLAMA_URL = process.env.OLLAMA_URL || 'http://localhost:11434/api/generate';
-const OLLAMA_MODEL = process.env.OLLAMA_MODEL || 'qwen3.5:9b';
-const OLLAMA_TIMEOUT_MS = parseInt(process.env.OLLAMA_TIMEOUT_MS, 10) || 15000;
+const GROQ_URL = 'https://api.groq.com/openai/v1/chat/completions';
+const GROQ_MODEL = process.env.GROQ_MODEL || 'llama-3.1-8b-instant';
+const GROQ_TIMEOUT_MS = parseInt(process.env.GROQ_TIMEOUT_MS, 10) || 15000;
 
 /**
  * Normalize an extracted skill name to match our canonical skill set.
@@ -128,7 +128,7 @@ function normalizeSkillName(raw) {
   return aliases[lower] || null;
 }
 
-async function ollamaExtractor(text) {
+async function groqExtractor(text) {
   const prompt = `You are a skill classifier for a gamified life experience tracker.
 
 Given the following experience description, identify which skills from this EXACT list are demonstrated:
@@ -145,15 +145,22 @@ Description: "${text}"
 Skills:`;
 
   const controller = new AbortController();
-  const timeoutId = setTimeout(() => controller.abort(), OLLAMA_TIMEOUT_MS);
+  const timeoutId = setTimeout(() => controller.abort(), GROQ_TIMEOUT_MS);
 
   try {
-    const response = await fetch(OLLAMA_URL, {
+    if (!process.env.GROQ_API_KEY) {
+      throw new Error('GROQ_API_KEY is missing');
+    }
+
+    const response = await fetch(GROQ_URL, {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
+      headers: { 
+        'Content-Type': 'application/json',
+        'Authorization': `Bearer ${process.env.GROQ_API_KEY}`
+      },
       body: JSON.stringify({
-        model: OLLAMA_MODEL,
-        prompt,
+        model: GROQ_MODEL,
+        messages: [{ role: 'user', content: prompt }],
         stream: false
       }),
       signal: controller.signal
@@ -162,11 +169,11 @@ Skills:`;
     clearTimeout(timeoutId);
 
     if (!response.ok) {
-      throw new Error(`Ollama API error: ${response.status}`);
+      throw new Error(`Groq API error: ${response.status}`);
     }
 
     const data = await response.json();
-    const resultText = (data.response || '').trim();
+    const resultText = (data.choices?.[0]?.message?.content || '').trim();
 
     if (!resultText || resultText.toLowerCase() === 'none') {
       throw new Error('No skills extracted by LLM');
@@ -192,7 +199,7 @@ Skills:`;
       throw new Error('No canonical skills matched from LLM response');
     }
 
-    console.log(`[Skill Extraction] Ollama extracted: ${unique.join(', ')}`);
+    console.log(`[Skill Extraction] Groq extracted: ${unique.join(', ')}`);
     return unique.map(name => ({ name, xp: 20 }));
   } catch (error) {
     clearTimeout(timeoutId);
@@ -228,9 +235,9 @@ export async function extractSkills(text) {
   if (!text || text.trim().length === 0) return [];
 
   try {
-    return await ollamaExtractor(text);
+    return await groqExtractor(text);
   } catch (error) {
-    console.log(`[Skill Extraction] Ollama unavailable (${error.message}), using keyword fallback.`);
+    console.log(`[Skill Extraction] Groq unavailable (${error.message}), using keyword fallback.`);
     return keywordExtractor(text);
   }
 }
